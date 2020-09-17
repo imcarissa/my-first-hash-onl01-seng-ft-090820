@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
-  the_manifest
+  the_manifest 
   
   
   # set a variable called `the_manifest`, equal to a hash
